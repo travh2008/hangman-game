@@ -46,4 +46,4 @@ else:
     elif user_choice > computer_choice:
         print("You win!")
     else:
-        print("Error")
+        print("You lose!")
